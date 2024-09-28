@@ -1,0 +1,1 @@
+body{display:flex;gap:20px}#selectCar,#selectYear{border:1px solid #000}#selectCar span,#selectYear span{border:1px solid #000}#selectCar #selectYearChild,#selectCar #selectCarChild,#selectYear #selectYearChild,#selectYear #selectCarChild{display:none}

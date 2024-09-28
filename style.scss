@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  gap: 20px;
+}
+#selectCar,
+#selectYear {
+  border: 1px solid black;
+
+  span {
+    border: 1px solid black;
+  }
+  #selectYearChild,
+  #selectCarChild {
+    display: none;
+  }
+}
